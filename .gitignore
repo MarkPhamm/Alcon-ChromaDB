@@ -1,4 +1,6 @@
 *.env
-united_way_project/
 /.venv
-.venv
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
